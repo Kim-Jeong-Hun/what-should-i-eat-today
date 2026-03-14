@@ -1,7 +1,7 @@
 export default function SoloRecommendation () {
     return (
         <div>
-            1인 메뉴 추천
+            2인 메뉴 추천
         </div>
     )
 }
